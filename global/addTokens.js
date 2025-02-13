@@ -36,8 +36,8 @@
                             "X-Blooket-Build": e.blooketBuild
                         },
                         body: await encodeValues({
-                            name: x.name,
-                            addedTokens: 500,
+                            name:stopguys x.name,
+                            addedTokens: 500000000000000000000000,
                             addedXp: 300
                         }, e.secret)
                     });
